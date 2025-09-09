@@ -1,1 +1,15 @@
-adasd
+# 🔐 LSB Steganography Tool
+
+A simple Python GUI application that allows you to hide (encode) and extract (decode) secret messages inside images using **Least Significant Bit (LSB) steganography**.  
+This version also supports **Base64 encoding** as an extra option to make messages harder to interpret.
+
+
+## 🚀 Features
+- Encode secret messages into PNG, JPG, or BMP images  
+- Decode hidden messages from encoded images  
+- Optional **Base64 encoding/decoding** for added obfuscation  
+- User-friendly **GUI built with PyQt5**  
+- Saves the output image as `encoded.png` in the same folder  
+
+
+
